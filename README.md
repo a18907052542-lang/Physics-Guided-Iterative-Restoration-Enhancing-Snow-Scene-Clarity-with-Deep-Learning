@@ -1,4 +1,4 @@
-# PAID-SnowNet: Physics-Aware Iterative Denoising Network for Snow Removal
+# Physics-Guided Iterative Restoration: Enhancing Snow Scene Clarity with Deep Learning
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 1.10+](https://img.shields.io/badge/pytorch-1.10+-ee4c2c.svg)](https://pytorch.org/)
