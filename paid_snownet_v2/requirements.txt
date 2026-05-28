@@ -1,0 +1,14 @@
+# Core
+torch>=1.12
+torchvision>=0.13
+numpy>=1.21
+Pillow>=9.0
+
+# Visualization
+matplotlib>=3.5
+
+# Optional: real LPIPS (falls back to VGG feature distance if not installed)
+lpips>=0.1.4
+
+# Optional: real downstream evaluation (Table 24 — YOLOv8 mAP)
+# ultralytics>=8.0.0
